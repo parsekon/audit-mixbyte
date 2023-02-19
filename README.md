@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Test Audit
 
 This repository make for test audit on course Mixbite Farm.
 
