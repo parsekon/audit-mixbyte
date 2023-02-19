@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "hardhat": "^2.12.7"
+  },
+  "devDependencies": {
+    "@aragon/apps-shared-minime": "^1.0.2",
+    "@aragon/os": "^4.4.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}
